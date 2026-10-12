@@ -9,12 +9,12 @@ git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
 
 cd TU-REPOSITORIO
 
-git checkout -b mejora-documentacion
+git checkout -b cambio como ejemplo del uso del softare
 
 git status
 
 git add .
 
-git commit -m "Mejora la documentacion"
+git commit -m ejemplo 2
 
-git push -u origin mejora-documentacion
+git push -u origin ejemplo 3
