@@ -1,1 +1,6 @@
+git config --global user.name "Octavio Arian Moreno Colin UNRC U4"
+git config --global user.email "octaviomoreno.poweracg@gmail.com"
+git config --global core.quotepath false
 
+git --version
+git config --list
