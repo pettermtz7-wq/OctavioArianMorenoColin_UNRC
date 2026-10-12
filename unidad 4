@@ -4,3 +4,17 @@ git config --global core.quotepath false
 
 git --version
 git config --list
+
+git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+
+cd TU-REPOSITORIO
+
+git checkout -b mejora-documentacion
+
+git status
+
+git add .
+
+git commit -m "Mejora la documentacion"
+
+git push -u origin mejora-documentacion
